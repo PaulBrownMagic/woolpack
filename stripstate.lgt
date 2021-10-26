@@ -20,7 +20,8 @@
 		1:0:0,
 		stable,
 		'https://github.com/PaulBrownMagic/STRIPState/archive/refs/tags/1.0.0.tar.gz',
-		[logtalk @>= 3:36:0, woolpack::situations @<=1:0:0],
+		[logtalk @>= 3:36:0,
+		woolpack::situations @<= 1:0:0],
 		all
 	).
 
