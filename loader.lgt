@@ -1,10 +1,10 @@
 :- initialization((
 	logtalk_load([
 		woolpack_registry,
-		situations,
-		sitcalc,
-		stripstate,
-		bedsit,
-		swidict
+		situations_pack,
+		sitcalc_pack,
+		stripstate_pack,
+		bedsit_pack,
+		swidict_pack
 	])
 )).
