@@ -20,6 +20,7 @@
 		1:0:0,
 		stable,
 		'https://github.com/PaulBrownMagic/Situations/archive/refs/tags/1.0.0.tar.gz',
+		sha256 - '628313eefbcb74ababc4bec08b245ee26e1076c823bd6d2e9308b7df08ddf0d6',
 		[logtalk @>= 3:36:0],
 		all
 	).

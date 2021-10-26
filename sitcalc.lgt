@@ -20,6 +20,7 @@
 		1:0:0,
 		stable,
 		'https://github.com/PaulBrownMagic/SitCalc/archive/refs/tags/1.0.0.tar.gz',
+		sha256 - 'cdb92509a09bb92e5d934a3520c7588a0850f79bcbddc71122a808daf6fac970',
 		[logtalk @>= 3:36:0,
 		woolpack::situations @>= 1:0:0
 		],

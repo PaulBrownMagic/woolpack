@@ -20,6 +20,7 @@
 		1:0:0,
 		stable,
 		'https://github.com/PaulBrownMagic/BedSit/archive/refs/tags/1.0.0.tar.gz',
+		sha256 - 'f8f068aeff2071dbd83ec13f7dae4720a87377d146e85aa6fd30c1373f24ce2a',
 		[logtalk @>= 3:36:0,
 		woolpack::situations @>= 1:0:0,
 		woolpack::sitcalc @>= 1:0:0,
