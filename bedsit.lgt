@@ -21,9 +21,9 @@
 		stable,
 		'https://github.com/PaulBrownMagic/BedSit/archive/refs/tags/1.0.0.tar.gz',
 		[logtalk @>= 3:36:0,
-		woolpack::situations @<= 1:0:0,
-		woolpack::sitcalc @<= 1:0:0,
-		woolpack::stripstate @<= 1:0:0,
+		woolpack::situations @>= 1:0:0,
+		woolpack::sitcalc @>= 1:0:0,
+		woolpack::stripstate @>= 1:0:0
 		],
 		all
 	).
