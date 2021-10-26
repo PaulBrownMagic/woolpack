@@ -45,4 +45,4 @@ And to look at a pack's details and then install it:
 
 ## About Logtalk Packs
 
-Check out the [docs at https://logtalk3.readthedocs.io/en/latest/devtools/packs.html](https://logtalk3.readthedocs.io/en/latest/devtools/packs.html)
+Check out the [docs at logtalk.org/manuals/devtools/packs.html](https://logtalk.org/manuals/devtools/packs.html)
