@@ -25,7 +25,7 @@ To add, at your Logtalk REPL:
 ?- {packs(loader)}.
 ...
 
-?- registries::add('https://gitub.com/PaulBrownMagic/woolpack.git').
+?- registries::add('https://github.com/PaulBrownMagic/woolpack.git').
 ...
 ```
 
