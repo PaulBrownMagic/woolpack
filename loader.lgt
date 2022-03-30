@@ -5,6 +5,7 @@
 		sitcalc_pack,
 		stripstate_pack,
 		bedsit_pack,
-		swidict_pack
+		swidict_pack,
+		json_repl_pack
 	])
 )).
