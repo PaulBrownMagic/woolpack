@@ -16,6 +16,7 @@ Other:
 - [json_repl - An object to hijack the REPL so that responses to queries are a
   single line of JSON](https://github.com/PaulBrownMagic/LGT_JSON_REPL)
 - [swidict - SWI-Prolog dictionaries with the Logtalk Dictionary Protocols](https://github.com/PaulBrownMagic/swidict)
+- [REPL Help - printing useful information about objects and their predicates in the REPL](https://github.com/PaulBrownMagic/repl_help)
 
 ## Using woolpack
 
