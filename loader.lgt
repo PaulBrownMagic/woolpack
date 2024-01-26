@@ -6,6 +6,7 @@
 		stripstate_pack,
 		bedsit_pack,
 		swidict_pack,
-		json_repl_pack
+		json_repl_pack,
+		repl_help_pack
 	])
 )).
